@@ -24,7 +24,7 @@ global:
 
 #############################################################################
 ### Change the Organisation name if user wants a different name in the UI
-organisationname: hello
+organisationname: vhb
 
 ### Admin groups in SSD for Rbac #############################################
 admingroups: admin
